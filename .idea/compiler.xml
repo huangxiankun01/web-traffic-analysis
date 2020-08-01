@@ -7,7 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="tracker-logServer" />
-        <module name="backend" />
+        <module name="spark-preparse-etl" />
+        <module name="weblog-preparser" />
         <module name="frontend" />
       </profile>
     </annotationProcessing>
